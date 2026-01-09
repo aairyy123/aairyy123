@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer with a strong interest in Full-Stack & Blockchain Development<br>=> Building scalable applications and decentralized solutions<br>=> Learning continuously and improving through real projects.Software Developer passionate about backend, full-stack & Web3<br>🔹 Comfortable with modern frameworks and blockchain tools<br>🔹 Believe in clean code, problem-solving, and hands-on learning<br>🔹 Exploring real-world use cases of decentralized systems
+Software Developer with a strong interest in Full-Stack & Blockchain Development, & Web3<br> Building scalable applications and decentralized solutions<br> Learning continuously and improving through real projects. <br>🔹 Comfortable with modern frameworks and blockchain tools<br>🔹 Believe in clean code, problem-solving, and hands-on learning<br>🔹 Exploring real-world use cases of decentralized systems
 
 
 ## 🌐 Socials:
